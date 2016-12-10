@@ -1,0 +1,14 @@
+{
+    "name": "Nahlášení nevydané účtenky",
+    "description": "Automatické zatržení potvrzení že nejste robot při vyplňování formuláře Nahlášení nevydané účtenky na webu Finanční správy ČR.",
+    "version": "1.0.1",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "js": ["script.js"],
+        "matches": ["https://www.google.com/recaptcha/*"],
+        "all_frames": true
+    }],
+    "icons": {
+        "16": "icon.ico"
+    }
+}
