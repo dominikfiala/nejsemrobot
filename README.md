@@ -4,7 +4,7 @@ Google Chrome rozšíření. Automatické zatržení potvrzení, že nejste robo
 
 ## Instalace
 
-1. Stáhněte soubor [`build/nejsemrobot.crx`](./build/nejsemrobot.crx) do počítače
+1. Stáhněte soubor [`build/nejsemrobot.crx`](https://github.com/dominikfiala/nejsemrobot/blob/master/build/nejsemrobot.crx?raw=true) do počítače
 2. V Chrome přejděte na obrazovku [`chrome://extensions/`](chrome://extensions/) (*Menu / Nástroje / Rozšíření*)
 3. Stažený soubor sem přetáhněte myší a povolte instalaci rozšíření
 4. Přejděte na [Nahlášení nevydané účtenky](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/uct/nahlaseni.faces) a bavte se!
